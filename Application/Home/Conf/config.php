@@ -2,7 +2,7 @@
 return array(
 	// 一个AI平台的token
 	'AI_TOKEN' => array(
-		'PAOXIE'=>'',
+		'PAOXIE'=>'一个AI平台客户端token',
 	),
 
 	// 脚型匹配
